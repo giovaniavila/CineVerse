@@ -1,4 +1,5 @@
-# CineVerse ![popcorn (1)](https://github.com/giovaniavila/CineVerse/assets/112128418/852dfcb7-405f-4359-81c9-9f290eb492ab)
+# CineVerse ![popcorn (1)](https://github.com/giovaniavila/CineVerse/assets/112128418/bde61d21-9d5a-48fc-8d82-1e65df8f678f)
+
 <br>
 
 
