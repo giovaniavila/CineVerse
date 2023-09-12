@@ -39,3 +39,8 @@ CineVerse's integration with the TMDB API is a key feature that sets it apart. T
 ### :computer: User Experience
 
 CineVerse is designed with the user in mind with an intuitive interface. Users can easily search for movies, browse by genre, or explore top-rated films, making it a valuable resource for film enthusiasts and professionals alike.
+<br>
+<br>
+
+### :rocket: Check it out
+https://cinerverse.netlify.app/
